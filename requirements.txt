@@ -1,0 +1,3 @@
+psutil
+pynput
+send2trash
